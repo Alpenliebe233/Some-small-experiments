@@ -1,4 +1,4 @@
-public class test{
+public class auction{
 	public static void main (String[] args) {
 		double V1=100.0,V2=1000.0;
 		double v1=0.0,b1=0.0,b2=0.0;
